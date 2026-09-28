@@ -1,0 +1,1 @@
+{"compilerOptions": {"target": "ES2022", "lib": ["ES2022"], "strict": false, "skipLibCheck": true, "module": "CommonJS", "moduleResolution": "Node", "jsx": "react", "noEmit": true}, "include": ["App.tsx", "src/**/*.ts", "src/**/*.tsx", "/mnt/data/apple_work/apple-04-complete-project/documentation/typecheck-shims/mobile.d.ts"]}
